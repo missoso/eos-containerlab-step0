@@ -97,4 +97,5 @@ containerlab destroy -t topology.clab.yaml
 ```
 
 ### Default credentials
+If not specified in the startup config:
 admin/admin
